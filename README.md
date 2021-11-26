@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ReadMeJS</h1>
-<h3 align="center">The easiest way to embed your project's README anywhere! Read the blog poster [here](https://www.weckmann.me/posts/readmejs/)!</h3>
+<h3 align="center">The easiest way to embed your project's README anywhere!</h3>
+
+## Read the blog poster [here](https://www.weckmann.me/posts/readmejs/)!
 
 - 📝 One `<script>` and a `<div>` is all it takes!
 - ⚡ This is a fresh project, keep your eyes open for updates!
